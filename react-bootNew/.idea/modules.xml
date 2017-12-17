@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-bootNew.iml" filepath="$PROJECT_DIR$/.idea/modules/react-bootNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-bootNew_main.iml" filepath="$PROJECT_DIR$/.idea/modules/react-bootNew_main.iml" group="react-bootNew" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-bootNew_test.iml" filepath="$PROJECT_DIR$/.idea/modules/react-bootNew_test.iml" group="react-bootNew" />
+    </modules>
+  </component>
+</project>
